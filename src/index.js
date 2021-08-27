@@ -1,5 +1,3 @@
-import "./styles.css";
-
 //DOM objects
 const container = document.querySelector(".container");
 const movie = document.getElementById("movie");
